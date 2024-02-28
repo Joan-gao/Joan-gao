@@ -1,5 +1,6 @@
 <h1 align="center">nihao👋, I'm Joan Gao</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
+<img align="right" alt="coding" src="https://assets.pinterest.com/ext/embed.html?id=164099980165269481" height="355" width="345">
 
 - 🔭 I’m currently working on [my-profolio](https://github.com/Joan-gao/my-profolio)
 
