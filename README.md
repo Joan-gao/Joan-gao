@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript, Nodejs, Nextjs**
 
-- 💬 Area of interest **photography, movies, hiking**
+- 💬 I'm interested in **photography, movies, hiking**
 
 - ⚡ Fun fact **My favorite coffee is flat white**
 
