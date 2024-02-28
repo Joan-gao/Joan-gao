@@ -1,4 +1,4 @@
-<h1 align="center">nihao👋, I'm Joan</h1>
+<h1 align="center">你好👋, I'm Joan</h1>
 <h3 align="center">A passionate frontend developer living in Perth, Australia</h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/f5/7c/b3/f57cb3dff25f5cb126241183eb60e0f1.jpg" height="275" width="300" frameborder="0">
 
