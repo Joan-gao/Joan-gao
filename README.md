@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **My favorite coffee is flat white**
 
-- - 📫 How to reach me **xgao9917@gmail.com**
+- 📫 How to reach me **xgao9917@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
