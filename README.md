@@ -2,15 +2,15 @@
 <h3 align="center">A passionate frontend developer live in Perth, Australia</h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/f5/7c/b3/f57cb3dff25f5cb126241183eb60e0f1.jpg" height="275" width="300" frameborder="0">
 
-- 🔭 I’m currently working on [my-profolio](https://github.com/Joan-gao/my-profolio)
+- 🔭 I’m currently working on **frontend development**
 
 - 🌱 I’m currently learning **Typescript, Nodejs, Nextjs**
 
-- 💬 Ask me about **react, vue**
-
-- 📫 How to reach me **xgao9917@gmail.com**
+- 💬 Area of interest **photography, movies, hiking**
 
 - ⚡ Fun fact **My favorite coffee is flat white**
+
+- - 📫 How to reach me **xgao9917@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
