@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for work in **full stack development**
 
-- 🌱 I’m currently learning **NET, Go, AI finetuned**
+- 🌱 I’m currently learning **NET, Go, RAG Models**
 
 - 💬 I'm interested in **photography, movies, hiking**
 
